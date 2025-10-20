@@ -59,6 +59,8 @@
 //         return this.name;
 //     },
 //     getMarks: () =>{
+
+    
 // console.log(this)
 //         return this.marks;
 //     }
